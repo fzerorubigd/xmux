@@ -4,9 +4,9 @@ import (
 	"net/http"
 	"testing"
 
+	"context"
 	"github.com/rs/xhandler"
 	"github.com/stretchr/testify/assert"
-	"golang.org/x/net/context"
 )
 
 func TestRouteGroupOfARouteGroup(t *testing.T) {
