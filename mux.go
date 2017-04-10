@@ -74,7 +74,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/rs/xhandler"
+	"github.com/fzerorubigd/xhandler"
 
 	"context"
 )

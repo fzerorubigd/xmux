@@ -13,7 +13,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/rs/xhandler"
+	"github.com/fzerorubigd/xhandler"
 
 	"context"
 )

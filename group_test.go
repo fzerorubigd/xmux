@@ -5,7 +5,8 @@ import (
 	"testing"
 
 	"context"
-	"github.com/rs/xhandler"
+
+	"github.com/fzerorubigd/xhandler"
 	"github.com/stretchr/testify/assert"
 )
 

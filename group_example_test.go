@@ -6,8 +6,9 @@ import (
 	"net/http"
 
 	"context"
-	"github.com/rs/xhandler"
-	"github.com/rs/xmux"
+
+	"github.com/fzerorubigd/xhandler"
+	"github.com/fzerorubigd/xmux"
 )
 
 func ExampleMux_NewGroup() {
